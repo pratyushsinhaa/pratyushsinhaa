@@ -3,16 +3,16 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pratyushsinhaa&color=blue)
 
-## 📈 GitHub Stats
-![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratyushsinhaa&show_icons=true&theme=radical)
+<!--## 📈 GitHub Stats
+![Pratyush's GitHub stats](https://github-readme-stats.vercel.app/api?username=pratyushsinhaa&show_icons=true&theme=radical) -->
 
 ## 🚀 Projects
-- **[Project Name](link to project):** Brief description of the project.
-- **[Project Name](link to project):** Brief description of the project.
+- **[Percunium](https://github.com/pratyushsinhaa/percunium):** This is a paper trading platform where you can trade on the US and Indian market and it has built-in stock evaluation through some pre-set formulae
+- **[Gambler's Dilemma](https://anti-gambling-frontend.onrender.com/):** A website with a preset amount of money that you get with stats to show how every game is rigged against the player in the most famous gambling games and how the house always wins, without the rationalizing. 
 
 ## 📫 How to Reach Me
 - **Email:** [my email](pratyushsarmy@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/pratyush-sinha-b4824a251/)
+- **LinkedIn:** [my linkedin](https://www.linkedin.com/in/pratyush-sinha-b4824a251/)
 <!-- - **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 ## 🌐 Blog
