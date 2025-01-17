@@ -1,5 +1,5 @@
 
-# Hi there, I'm Pratyush Sinha 👋
+# Hi there, I'm Pratyush Sinha 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=pratyushsinhaa&color=blue)
 
@@ -24,8 +24,12 @@ Check out my latest articles on [Your Blog](link to your blog).
 - [Achievement 3]
 
 ## 💬 Let's Connect!
-Feel free to reach out to me for collaboration or just a friendly chat. I'm always open to new opportunities and ideas.     -->
+Feel free to reach out to me for collaboration or just a friendly chat. I'm always open to new opportunities and ideas.  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushsinhaa&layout=compact&theme=radical)
+
+-->
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratyushsinhaa&layout=compact&theme=radical)
+
