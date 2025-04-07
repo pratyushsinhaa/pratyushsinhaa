@@ -11,8 +11,8 @@
 - **[Gambler's Dilemma](https://anti-gambling-frontend.onrender.com/):** A website with a preset amount of money that you get with stats to show how every game is rigged against the player in the most famous gambling games and how the house always wins, without the rationalizing. 
 
 ## 📫 How to Reach Me
-- **Email:** [my email](pratyushsarmy@gmail.com)
-- **LinkedIn:** [my linkedin](https://www.linkedin.com/in/pratyush-sinha-b4824a251/)
+- **Email:** [ptpratyush24@gmail.com](ptpratyush24@gmail.com)
+- **LinkedIn:** [linkedin/pratyush-sinha](https://www.linkedin.com/in/pratyush-sinha-b4824a251/)
 <!-- - **Twitter:** [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
 
 ## 🌐 Blog
